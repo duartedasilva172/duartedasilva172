@@ -27,7 +27,7 @@ Beyond code, I bring 7+ years of customer service excellence, creative problem-s
 
 ## 📫 Let's Connect
 - 💼 LinkedIn: [https://www.linkedin.com/in/duartedasilvarojas/]
-- 🌐 Portfolio: [[your-notion-site](https://glistening-october-81c.notion.site/Hello-I-m-Duarte-Da-Silva-208e6ec0352680a488dcd9b74f93f252?pvs=74)]
+- 🌐 Portfolio: [[my-notion-site](https://glistening-october-81c.notion.site/Hello-I-m-Duarte-Da-Silva-208e6ec0352680a488dcd9b74f93f252?pvs=74)]
 - 📧 Email: [duartedasilva172@gmail.com]
 
 ---
