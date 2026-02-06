@@ -2,7 +2,7 @@
 
 ## About Me
 
-After years in customer service across retail, logistics, and hospitality, I discovered something unexpected: I love solving problems with. What started as curiosity a year ago has turned into a full career pivot into data and software development.
+After years in customer service across retail, logistics, and hospitality, I discovered something unexpected: I love solving problems. What started as curiosity a year ago has turned into a full career pivot into data and software development.
 
 I'm a self-taught developer specializing in data analysis and backend development, with a focus on turning raw data into actionable insights and creating apps that simplify tedious tasks. Through DataCamp courses and hands-on projects, I've built a foundation in Python, SQL, data engineering, and web application development.
 
