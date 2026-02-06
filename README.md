@@ -31,8 +31,7 @@ Beyond code, I bring 7+ years of customer service excellence, creative problem-s
 - 📧 Email: [duartedasilva172@gmail.com]
 
 ## 📊 GitHub Stats
-![Duarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=duartedasilva172&show_icons=true&theme=radical)
-
+[![Duarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=duatedasilva172)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 *"I used to think I wasn't smart enough to code. Now I know the only real prerequisite is curiosity."*
