@@ -30,8 +30,6 @@ Beyond code, I bring 7+ years of customer service excellence, creative problem-s
 - 🌐 Portfolio: [your-notion-site]
 - 📧 Email: [duartedasilva172@gmail.com]
 
-## 📊 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=duartedasilva172&show_icons=true&theme=tokyonight&hide_border=true)
 ---
 
 *"I used to think I wasn't smart enough to code. Now I know the only real prerequisite is curiosity."*
