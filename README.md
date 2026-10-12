@@ -15,9 +15,9 @@ I'm a self-taught developer specializing in data analysis and backend developmen
 - **Currently Exploring:** Data pipelines, backend development, cloud platforms
 
 ## 🚀 Featured Projects
-- **[Trade Signal Generator](link)** - Real-time financial data analysis using pandas and API integrations
-- **[Library Database Simulation](link)** - Database management system demonstrating SQL and Python integration
-- **[Anilist Manga Pipeline](link)** - ETL pipeline for manga data extraction and analysis
+- **[Trade Signal Generator](https://github.com/duartedasilva172/trade-signal-generator-R)** - Technical trading signals (MACD, RSI, SMA20/SMA50) in R with live Yahoo Finance data · [Read the report](https://duartedasilva172.github.io/trade-signal-generator-R/)
+- **[Library Database Simulation](https://github.com/duartedasilva172/Library-Database-Simulation)** - Database management system demonstrating SQL and Python integration · [Live app](https://library-database-simulation-ny4nyxgvhme4wc5nw35oyz.streamlit.app/)
+- **[Anilist Manga Pipeline](https://github.com/duartedasilva172/anilist_manga_pipeline)** - ETL pipeline for manga data extraction and analysis · [Live app](https://anilistmangapipeline.streamlit.app/)
 
 ## 🌱 Currently Building
 Working on a trade signal generator that analyzes financial markets using pandas, requests, and various financial APIs. Building interactive dashboards with Streamlit to visualize data insights.
@@ -26,9 +26,9 @@ Working on a trade signal generator that analyzes financial markets using pandas
 Beyond code, I bring 7+ years of customer service excellence, creative problem-solving from my background in art and tattooing, and the communication skills that come from working directly with people. I understand user needs because I've been on the front lines.
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [https://www.linkedin.com/in/duartedasilvarojas/]
-- 🌐 Portfolio: [[my-notion-site](https://glistening-october-81c.notion.site/Hello-I-m-Duarte-Da-Silva-208e6ec0352680a488dcd9b74f93f252?pvs=74)]
-- 📧 Email: [duartedasilva172@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/duartedasilvarojas](https://www.linkedin.com/in/duartedasilvarojas/)
+- 🌐 Portfolio: [My Notion site](https://glistening-october-81c.notion.site/Hello-I-m-Duarte-Da-Silva-208e6ec0352680a488dcd9b74f93f252)
+- 📧 Email: [duartedasilva172@gmail.com](mailto:duartedasilva172@gmail.com)
 
 ---
 
